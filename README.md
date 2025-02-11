@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I'm an engineer specializing in backend development, enthusiastic about building efficient, stable, and scalable backend systems. I'm passionate about solving complex technical problems and constantly learning new technologies and frameworks to enhance my skills.
 
-## 🔧 Skill stack
 ### Programming language
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
