@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 编程语言
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=golang&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-f79dc5?style=for-the-badge&logo=lua&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-2a73c1?style=for-the-badge&logo=javascript&logoColor=white)
 
