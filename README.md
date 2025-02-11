@@ -29,7 +29,10 @@ I'm an engineer specializing in backend development, enthusiastic about building
 ### Frameworks
 ![Netty](https://img.shields.io/badge/Netty-092E20?style=for-the-badge&logo=Netty&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Netpoll](https://img.shields.io/badge/Netpoll-662e83?style=for-the-badge&logo=Netpoll&logoColor=white)
+![Netpoll](https://img.shields.io/badge/netpoll-662e83?style=for-the-badge&logo=netpoll&logoColor=white)
+![Gorm](https://img.shields.io/badge/gorm-E15F41?style=for-the-badge&logo=gorm&logoColor=white)
+![Dubbo](https://img.shields.io/badge/dubbo-F97F51?style=for-the-badge&logo=dubbo&logoColor=white)
+![Mybatis](https://img.shields.io/badge/mybatis-55E6C1?style=for-the-badge&logo=mybatis&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
