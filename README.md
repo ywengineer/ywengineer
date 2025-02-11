@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-50a35a?style=for-the-badge&logo=Clickhouse&logoColor=white)
 
-感谢你访问我的 GitHub 主页！如果你对我的项目感兴趣或者有合作意向，欢迎随时联系我。
+感谢你访问我的 GitHub 主页！
