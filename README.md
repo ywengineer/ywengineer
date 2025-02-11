@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 
 <!--
 **ywengineer/ywengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-50a35a?style=for-the-badge&logo=Clickhouse&logoColor=white)
 
 感谢你访问我的 GitHub 主页！
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ywengineer&show_icons=true&theme=radical)
