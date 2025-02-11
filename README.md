@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Javascript](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-01ACD8?style=for-the-badge&logo=lua&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-10ADE8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 框架与工具
 ![Netty](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
