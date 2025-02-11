@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-01ACD8?style=for-the-badge&logo=lua&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-10ADE8?style=for-the-badge&logo=javascript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-f79dc5?style=for-the-badge&logo=lua&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-2a73c1?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 框架与工具
-![Netty](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Netty](https://img.shields.io/badge/Netty-092E20?style=for-the-badge&logo=Netty&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Netpoll](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white)
+![Netpoll](https://img.shields.io/badge/Netpoll-662e83?style=for-the-badge&logo=Netpoll&logoColor=white)
 
 ### 数据库
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Clickhouse](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-50a35a?style=for-the-badge&logo=Clickhouse&logoColor=white)
 
 感谢你访问我的 GitHub 主页！如果你对我的项目感兴趣或者有合作意向，欢迎随时联系我。
