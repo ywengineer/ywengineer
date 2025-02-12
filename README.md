@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, everyone
+# 👋 Hi,
 
 I'm an engineer specializing in backend development, enthusiastic about building efficient, stable, and scalable backend systems. I'm passionate about solving complex technical problems and constantly learning new technologies and frameworks to enhance my skills.
 
