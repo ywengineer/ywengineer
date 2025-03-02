@@ -30,6 +30,7 @@ I'm an engineer specializing in backend development, enthusiastic about building
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-3B3B98?style=for-the-badge&logo=vue&logoColor=white)
 ![Netpoll](https://img.shields.io/badge/netpoll-662e83?style=for-the-badge&logo=netpoll&logoColor=white)
+![gnet](https://img.shields.io/badge/gnet-7F52B5?style=for-the-badge&logo=gnet&logoColor=white)
 ![Gorm](https://img.shields.io/badge/gorm-E15F41?style=for-the-badge&logo=gorm&logoColor=white)
 ![Dubbo](https://img.shields.io/badge/dubbo-F97F51?style=for-the-badge&logo=dubbo&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/mybatis-55E6C1?style=for-the-badge&logo=mybatis&logoColor=white)
